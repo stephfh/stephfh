@@ -5,5 +5,5 @@ I'm a web developer based in the vibrant city of Cologne, Germany. I specialise 
 - 🔭 I’m currently working on some smaller things. 
 - 🌱 I’m currently learning stuff around WebAssembly.
 - 💬 Ask me about JS / TS, CSS, Vue, Angular, PHP
-- 📫 How to reach me: [Dev.To](htttps://dev.to/stephanie)
+- 📫 How to reach me: [Dev.To](https://dev.to/stephanie)
 - ⚡ Fun fact: I don't like coffee. 
