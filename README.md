@@ -6,4 +6,4 @@ I'm a web developer based in the city of Cologne, Germany. I specialise in web b
  - 🌱 I’m currently learning all kinds of things, everyday. Isn't that the great thing about being a developer?
  - 💬 Ask me about JS / TS, CSS, Web Components, Vue, Angular, React, PHP, TYPO3
  - 🤝 I'm open to collaborate on interesting projects.
- - ⚡ Fun fact: I love mountainbiking. I also rode a mountainbike trail on a BMX bike once. That was fun. For days after.
+ - ⚡ Fun fact: I love mountainbiking. I also rode a mountainbike trail on a BMX bike once. That was fun.
