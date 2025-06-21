@@ -1,4 +1,9 @@
-## Hi there 👋
+## Moin! Servus! Hello! 👋
+
+- 🌱 I’m currently learning all kinds of things, every day.
+- 👯 I’m looking to collaborate on interesting projects.
+- 💬 Ask me about HTML, CSS, JavaScript/TypeScript, PHP, Web Components, VueJS
+- 📫 How to reach me: Search for my username on Discord.
 
 <!--
 **stephfh/stephfh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
